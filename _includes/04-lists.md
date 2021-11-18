@@ -1,4 +1,4 @@
-*Books
-*pencils
-*Scale
-*Geometry Box
+* Books
+* pencils
+* Scale
+- Geometry Box
