@@ -1,2 +1,7 @@
-**Groceries list
-_You must include all in this list
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
